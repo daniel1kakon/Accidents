@@ -1,1 +1,2 @@
-## This is the final project assignment in the course "Data Science".
+## Final project assignment in the course "Data Science".
+
